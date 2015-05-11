@@ -1,0 +1,1 @@
+So far, all kits presented here are downloaded from [Music Machines](http://machines.hyperreal.org/samples.html). I've only provided ones that I have the license to redistribute (see txt files in each kit directory).
