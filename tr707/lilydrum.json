@@ -1,0 +1,22 @@
+{
+	"name": "tr707",
+	"samples": {
+		"bassdrum": "BassDrum1.wav",
+		"acousticbassdrum": "BassDrum2.wav",
+		"snare": "Snare1.wav",
+		"snareone": "Snare1.wav",
+		"snaretwo": "Snare2.wav",
+		"hightom": "HiTom.wav",
+		"himidtom": "MedTom.wav",
+		"lomidtom": "LowTom.wav",
+		"lowtom": "LowTom.wav",
+		"hihat": "HhC.wav",
+		"openhihat": "HhO.wav",
+		"crashcymbal": "Crash.wav",
+		"ridecymbal": "Ride.wav",
+		"cowbell": "CowBell.wav",
+		"handclap": "HandClap.wav",
+		"sidestick": "RimShot.wav",
+		"tambourine": "Tamb.wav"
+	}
+}
